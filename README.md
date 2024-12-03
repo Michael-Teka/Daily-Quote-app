@@ -44,7 +44,7 @@ The Daily Quotes app is a mobile application designed to inspire and motivate us
 
   ![Screenshot](https://github.com/Michael-Teka/Daily-Quote-app/blob/main/photo_2024-12-03_11-36-43.jpg)
   ![Screenshot](https://github.com/Michael-Teka/Daily-Quote-app/blob/main/photo_2024-12-03_11-37-17.jpg)
-  ![Screenshot](https://github.com/Michael-Teka/Daily-Quote-app/blob/main/photo_2024-12-03_11-36-44.jpg)
+  ![Screenshot](https://github.com/Michael-Teka/Daily-Quote-app/blob/main/photo_2024-12-03_11-37-44.jpg)
 
  
 
