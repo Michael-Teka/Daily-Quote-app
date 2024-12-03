@@ -35,22 +35,14 @@ The Daily Quotes app is a mobile application designed to inspire and motivate us
 9. **View Shared Quotes:** The "Shared Quotes" section shows a history of quotes you've shared.
 
 
-## Technical Details (Optional - Add if applicable)
+## Technical Details 
 
-* **Platform:** [e.g., Android, iOS, Web]
-* **Technology Stack:** [e.g., React Native, Flutter, Swift, Kotlin, etc.]
-* **Data Source:** [e.g., Local JSON file, API endpoint]
-* **Database:** [e.g., SQLite, Realm, Firebase]
+* **Platform:** [ Android]
+* **Technology Stack:** [ Flutter]
+* **Data Source:** [Local JSON file]
 
-## Contributing
-
-[Optional: Add instructions if you are accepting contributions]
-
-## License
-
-[Optional: Specify the license under which your app is distributed]
 
 
 ## Contact
 
-[Optional: Add contact information]
+For inquiries or feedback, please email: michaelteka1436@gmail.com
