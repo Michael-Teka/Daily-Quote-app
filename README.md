@@ -1,4 +1,5 @@
 # Daily Quotes App - README
+![Screenshot](images/screenshot.png)
 
 This README provides information about the Daily Quotes app, its features, and how to use it.
 
